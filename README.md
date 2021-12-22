@@ -14,4 +14,3 @@ https://grayweling.github.io/run-buddy/
 Made with ❤️ by John Yoder
 
 ### ©️2019 Run Buddy, Inc 
-test
